@@ -1,4 +1,4 @@
-package knight.springframework.petstoreapp.model;
+package knight.springframework.petsoreapp.model;
 
 import java.time.LocalDate;
 

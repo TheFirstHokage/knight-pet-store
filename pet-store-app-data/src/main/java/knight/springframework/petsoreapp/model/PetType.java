@@ -1,4 +1,4 @@
-package knight.springframework.petstoreapp.model;
+package knight.springframework.petsoreapp.model;
 
 public class PetType {
 
